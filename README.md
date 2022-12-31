@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
 - 🔭 I’m currently working on BrainXAI Lab, Pukyong National University.
 - 🌱 I’m currently learning XAI(Explainable AI), neuroscience, NLP.
 - 📫 How to reach me: i1598123@naver.com
