@@ -1,4 +1,4 @@
-## AI is 'social optimizer'
+### AI is 'social optimizer'
 This is my belief in the role of AI, and why I research it.
 
 - 🔭 I’m currently working on BrainXAI Lab, Pukyong National University.
