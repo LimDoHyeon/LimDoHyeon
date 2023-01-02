@@ -1,7 +1,8 @@
-### Hi there 👋
+## AI is 'social optimizer'
+> This is my belief in the role of AI, and why I research it.
 
 - 🔭 I’m currently working on BrainXAI Lab, Pukyong National University.
-- 🌱 I’m currently learning XAI(Explainable AI), neuroscience, NLP.
+- 🌱 I’m currently learning XAI(eXplainable AI), neuroscience, and NLP.
 - 📫 How to reach me: i1598123@naver.com
 
 <!--
