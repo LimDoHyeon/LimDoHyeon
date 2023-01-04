@@ -1,5 +1,6 @@
 ### "AI is social optimizer"
 ✔️ This is my belief in the role of AI, and why I do research it.
+
 ✔️ Intrested in convergence with artificial intelligence and various industries such as medical, military, finance, and law.
 
 - 🔭 I’m currently working on BrainXAI Lab, Pukyong National University.
