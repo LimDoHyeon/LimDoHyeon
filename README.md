@@ -1,20 +1,31 @@
-### "AI is social optimizer"
-✔️ This is my belief in the role of AI, and why I do research it.
+<div align="center">
 
+<h1>"AI is social optimizer"</h1>
+<p>✔️ This is my belief in the role of AI, and why I do research it.</p>
+<p>✔️ I work to eliminate social problems and to make our society much more better.</p>
+<p>✔️ Intrested in AI, Medical treatment, and Education.</p>
 
-- ✒️ I'm Intrested in convergence with artificial intelligence and various industries such as medical, military, finance, and law.
-- 🔭 I’m currently working on BrainXAI Lab, Pukyong National University.
-- 🌱 I’m currently learning XAI(eXplainable AI), neuroscience, and NLP.
-- 📫 How to reach me: i1598123@naver.com
+<h3>💻 Tech Stack 💻</h3>
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"></td>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black"></td>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=black"></td>
+  <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=for-the-badge&logo=Google Cloud&logoColor=black"></td>
+</div>
 
-<!--
-**LimDoHyeon/LimDoHyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>📚 Study Topic 📚</h3>
+<p>Machine Learning & Deep Learning</p>
+<p>Brain-Computer Interface</p>
+<p>Brain-inspired Explainable AI</p>
+<p>Cloud Computing</p>
+<p>Natural Language Processing</p>
+<p>Computer Vision</p>
+<p>Neuroscience</p>
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>👨‍💻 Personal History 👨‍💻</h3>
+<p> 2021.3 ~ 2022.1 : 사회혁신 소셜벤처 연합동아리 SK LOOKIE PKNU & 부경대학교 창업동아리(독거노인의 일상 전자책 플랫폼 '담다' - 팀장)</p>
+<p> 2022.1 ~ 2023.2 : 사회혁신 소셜벤처 연합동아리 SK LOOKIE PKNU 회장</p>
+<p> 2022.9 ~        : 부경대학교 프로그래밍 중앙동아리 WAP</p>
+<p> 2023.1 ~        : 뇌 기반 설명가능한 인공지능 연구실(Brain-XAI Lab.)</p>
+<p> 2023.2 ~ 2023.2 : GDSC KR Winter Cup 48팀 중 4위 (식품 알러지 예방 푸드 카메라 '헬씨' - 팀장)</p>
+<p> 2023.3 ~        : Google Solution Challenge (식품 알러지 예방 푸드 카메라 '헬씨' - 팀장)</p>
