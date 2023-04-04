@@ -3,7 +3,7 @@
 <h1>"AI is social optimizer"</h1>
 <p>✔️ This is my belief in the role of AI, and why I do research it.</p>
 <p>✔️ I work to eliminate social problems and to make our society much more better.</p>
-<p>✔️ Intrested in AI, Medical treatment, and Education.</p>
+<p>✔️ Interested in AI, Medical treatment, and Education.</p>
 
 <h3>💻 Tech Stack 💻</h3>
 <div>
