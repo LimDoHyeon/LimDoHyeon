@@ -1,10 +1,5 @@
 <div align="center">
 
-<h1>"AI is social optimizer"</h1>
-<p>✔️ This is my belief in the role of AI, and why I do research it.</p>
-<p>✔️ I work to eliminate social problems and to make our society much more better.</p>
-<p>✔️ Interested in AI, Medical treatment, and Education.</p>
-
 <h3>💻 Tech Stack 💻</h3>
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black"></td>
@@ -15,11 +10,8 @@
 
 <h3>📚 Study Topic 📚</h3>
 <p>Machine Learning & Deep Learning</p>
-<p>Brain-Computer Interface</p>
-<p>Brain-inspired Explainable AI</p>
+<p>eXplainable AI</p>
 <p>Cloud Computing</p>
-<p>Natural Language Processing</p>
-<p>Computer Vision</p>
 <p>Neuroscience</p>
 
 <h3>👨‍💻 Personal History 👨‍💻</h3>
