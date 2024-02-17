@@ -3,6 +3,6 @@
 
 
 <h3>📚 Study Topic 📚</h3>
-<p>Brain-inspired AI</p>
+<p>Explainable AI</p>
 <p>Deep Reinforcement Learning</p>
 <p>Spiking Neural Network</p>
