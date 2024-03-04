@@ -3,6 +3,5 @@
 
 
 <h3>📚 Study Topic 📚</h3>
+<p>Auditory AI</p>
 <p>Explainable AI</p>
-<p>Deep Reinforcement Learning</p>
-<p>Spiking Neural Network</p>
