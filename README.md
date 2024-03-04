@@ -5,3 +5,5 @@
 <h3>📚 Study Topic 📚</h3>
 <p>Auditory AI</p>
 <p>Explainable AI</p>
+
+<p>And I am also interested in Computational Psychology.</p>
