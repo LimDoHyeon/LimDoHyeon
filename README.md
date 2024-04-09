@@ -1,9 +1,9 @@
 <div align="center">
-<h3>I'm Do-Hyeon Lim.<br><br></h3>
+<h3>I'm Do-Hyeon Lim.</h3>
+<p>I'm interested in correlation between sound and emotion.<br>I believe some sounds(including music) have a lot of potential and they can make people's life better.</p>
 
 
 <h3>📚 Study Topic 📚</h3>
 <p>Auditory AI</p>
 <p>Explainable AI</p>
-<br><br>
-<p>And I am also interested in Computational Psychology.</p>
+<p>Computational Neuroscience(especially Psychology)</p>
