@@ -7,3 +7,6 @@
 <p>Auditory AI</p>
 <p>Explainable AI</p>
 <p>Computational Psychology</p>
+
+<h3>Contact</h3>
+<p>i1598123@naver.com</p>
