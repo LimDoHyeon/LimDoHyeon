@@ -6,4 +6,4 @@
 <h3>📚 Study Topic 📚</h3>
 <p>Auditory AI</p>
 <p>Explainable AI</p>
-<p>Computational Neuroscience(especially Psychology)</p>
+<p>Computational Psychology</p>
