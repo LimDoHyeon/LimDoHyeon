@@ -8,7 +8,7 @@
 <p>Explainable AI</p>
 
 <h3>Interested</h3>
-<p>Computational Psychology</p>
+<p>Affective Computing</p>
 <p>Large Language Model</p>
 <p>Image Generation</p>
 
