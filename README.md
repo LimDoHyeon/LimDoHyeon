@@ -4,7 +4,7 @@
 
 <h2>📕Study Topic</h2>
 <p>- Audio(ASR / Sound Event Detection)</p>
-<p>- Affective Computing</p>
+<p>- Affective Computing(Speech Emotion Recognition)</p>
 <p>- Explainable AI</p>
 <br>
 
@@ -12,6 +12,7 @@
 <p>- Computational Neuroscience</p>
 <p>- Reinforcement Learning</p>
 <p>- Generative AI</p>
+<p>- Large-scale AI</p>
 <br>
 
 <h2>📞Contact</h2>
