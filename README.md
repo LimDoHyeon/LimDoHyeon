@@ -3,8 +3,8 @@
 <br>
 
 <h2>📕Study Topic</h2>
-<p>- Audio(ASR / Sound Event Detection)</p>
-<p>- Affective Computing(Speech Emotion Recognition)</p>
+<p>- Speech Recognition / Generation</p>
+<p>- Speech Emotion Recognition</p>
 <p>- Explainable AI</p>
 <br>
 
