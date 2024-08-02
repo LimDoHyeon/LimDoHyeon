@@ -5,6 +5,7 @@
 <h2>📕Study Topic</h2>
 <p>- Speech Recognition / Generation</p>
 <p>- Speech Emotion Recognition</p>
+<p>- Sound Event Detection</p>
 <p>- Explainable AI</p>
 <br>
 
