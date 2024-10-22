@@ -1,12 +1,12 @@
 <h2>I'm Do-Hyeon Lim.</h2>
-<p>I am very interested in solving various problems in real life using sound information. Ultimately, I want to develop artificial intelligence with superior sense of hearing than humans.</p>
+<p>I am very interested in solving various problems in real life using AI.</p>
 <br>
 
 <h2>📕Study Topic</h2>
-<p>- Speech Recognition / Generation</p>
 <p>- Speech Emotion Recognition</p>
 <p>- Explainable AI</p>
 <p>- Data Augmentatinon</p>
+<p>- Natural Language Understanding</p>
 <br>
 
 <h2>🤔Interested</h2>
