@@ -4,16 +4,15 @@
 
 <h2>📕Study Topic</h2>
 <p>- Speech Emotion Recognition</p>
+<p>- Speech Recognition/Generation</p>
 <p>- Explainable AI</p>
 <p>- Data Augmentatinon</p>
 <p>- Natural Language Understanding</p>
 <br>
 
-<h2>🤔Interested</h2>
-<p>- Computational Neuroscience</p>
-<p>- Reinforcement Learning</p>
-<p>- Generative AI</p>
-<p>- Large-scale AI</p>
+<h2>🎓Education</h2>
+<p>2025.02~ | <strong>Gwangju Institute of Science and Technology, Gwangju(South Korea)</strong>, M.S in Artificial Intelligence</p>
+<p>2021.03~2025.02 | <strong>Pukyong National University, Busan(South Korea)</strong>, B.S in Computer Science</p>
 <br>
 
 <h2>📞Contact</h2>
