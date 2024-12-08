@@ -15,8 +15,8 @@
 <p>2021.03 ~ 2025.02 | <strong>Pukyong National University, Busan(South Korea)</strong>, B.S. in Computer Science</p>
 <br>
 
-<h2>📞Contact</h2>
-<p>i1598123@naver.com</p>
+<h2>💭More Information</h2>
+<p>E-mail: i1598123@naver.com</p>
 <a href="https://www.linkedin.com/in/도현-임-b63643262/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=Blue">
 </a>
