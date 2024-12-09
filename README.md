@@ -13,7 +13,7 @@
 <h2>🎓Education</h2>
 <p>2025.03 ~ | <strong>Gwangju Institute of Science and Technology, Gwangju(South Korea)</strong>, M.S. in Artificial Intelligence</p>
 <p>2021.03 ~ 2025.02 | <strong>Pukyong National University, Busan(South Korea)</strong>, B.S. in Computer Science
-  <br>- <a href="https://sites.google.com/view/brainxai">Brain-inspired eXplainable Artificial Intelligence Lab</a> (2023.01 ~ 2023.09)
+  <br>- <a href="https://sites.google.com/view/brainxai">Brain-XAI Lab</a> (2023.01 ~ 2023.09)
   <br>- Advisor: Hoon-Hee Kim</p>
 <br>
 
