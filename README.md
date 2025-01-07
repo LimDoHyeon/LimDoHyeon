@@ -1,5 +1,5 @@
 <h2>I'm Do-Hyeon Lim.</h2>
-<p>I am very interested in solving various problems in real life using AI.</p>
+<p>I do study audio, speech and Artificial Intelligence.</p>
 <br>
 
 <h2>🧑‍🔬 Research Interest</h2>
