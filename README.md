@@ -3,9 +3,9 @@
 <br>
 
 <h2>🧑‍🔬 Research Interest</h2>
-<p>- Sound Source Localization / Separation</p>
 <p>- Sound Event Detection</p>
-<p>- Speech Recognition / Generation</p>
+<p>- Semi-Supervised Learning</p>
+<p>- Sound Source Localization / Separation</p>
 <p>- Explainable AI</p>
 <p>- Data Augmentatinon</p>
 <br>
