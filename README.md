@@ -20,6 +20,4 @@
 <a href="https://www.linkedin.com/in/do-hyeon-lim-b63643262/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=Blue">
 </a>
-<a href="https://limdohyeon.github.io/CV-Do-Hyeon-Lim.pdf">
-  <img src="https://img.shields.io/badge/CV-8A2BE2?link=https%3A%2F%2Flimdohyeon.github.io%2F%5BCV%5DDo-Hyeon-Lim.pdf">
-</a>
+
