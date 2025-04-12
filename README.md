@@ -11,7 +11,7 @@
 <br>
 
 <h2>🎓 Education</h2>
-<p>2025.01 ~ Present | <strong>Gwangju Institute of Science and Technology(GIST), Gwangju, South Korea</strong>, M.S. in Artificial Intelligence</p>
+<p>2025.03 ~ Present | <strong>Gwangju Institute of Science and Technology(GIST), Gwangju, South Korea</strong>, M.S. in Artificial Intelligence</p>
 <p>2021.03 ~ 2025.02 | <strong>Pukyong National University, Busan, South Korea</strong>, B.S. in Computer Science</p>
 <br>
 
