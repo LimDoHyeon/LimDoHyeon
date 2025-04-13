@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=Blue">
 </a>
 <a href="https://orcid.org/0009-0002-5954-9754">
-  <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white">
+  <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" width=6% height=6%>
 </a>
 
 
