@@ -10,11 +10,6 @@
 <p>- Data Augmentatinon</p>
 <br>
 
-<h2>🎓 Education</h2>
-<p>2025.03 ~ Present | <strong>Gwangju Institute of Science and Technology(GIST), Gwangju, South Korea</strong>, M.S. in AI Convergence</p>
-<p>2021.03 ~ 2025.02 | <strong>Pukyong National University, Busan, South Korea</strong>, B.S. in Computer Engineering</p>
-<br>
-
 <h2>💭 More Information</h2>
 <p>E-mail: do-hyeon@gm.gist.ac.kr</p>
 <a href="https://www.linkedin.com/in/do-hyeon-lim-b63643262/">
