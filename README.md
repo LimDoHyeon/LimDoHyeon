@@ -10,7 +10,6 @@
 <p>- Data Augmentatinon</p>
 <br>
 
-<h2>💭 More Information</h2>
 <a href="https://www.linkedin.com/in/do-hyeon-lim-b63643262/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat-square&logo=LinkedIn&logoColor=Blue">
 </a>
