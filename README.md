@@ -2,12 +2,10 @@
 <p>I do study audio, speech and Artificial Intelligence.</p>
 <br>
 
-<h2>🧑‍🔬 Research Interest</h2>
-<p>- Sound Event Detection</p>
-<p>- Semi-Supervised Learning</p>
-<p>- Sound Source Localization / Separation</p>
-<p>- Explainable AI</p>
-<p>- Data Augmentatinon</p>
+<h2>🧑‍🔬 Research Topic</h2>
+<p>- Efficient AI</p>
+<p>- Automatic Speech Recognition</p>
+<p>- Sound Source Separation</p>
 <br>
 
 <a href="https://www.linkedin.com/in/do-hyeon-lim-b63643262/">
