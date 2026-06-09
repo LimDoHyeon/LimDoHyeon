@@ -1,4 +1,4 @@
-<p>Pursuing efficient audio/speech AI development that is easily accessible in real-world environments.</p>
+<p>Pursuing efficient audio/speech AI development easily accessible in real-world environments.</p>
 <br>
 
 <h2>🧑‍🔬 Research Topic</h2>
