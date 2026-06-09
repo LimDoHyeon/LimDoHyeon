@@ -1,10 +1,9 @@
-<p>Pursuing efficient AI development that is easily accessible in real-world environments.</p>
+<p>Pursuing efficient audio/speech AI development that is easily accessible in real-world environments.</p>
 <br>
 
 <h2>🧑‍🔬 Research Topic</h2>
 <p>- Efficient AI</p>
 <p>- Continual Learning</p>
-<p>- Automatic Speech Recognition</p>
 <br>
 
 <a href="https://www.linkedin.com/in/do-hyeon-lim-b63643262/">
