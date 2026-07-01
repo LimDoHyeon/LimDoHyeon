@@ -2,7 +2,7 @@
 <br>
 
 <h2>Research Topic</h2>
-<p>- Speech-To-Text(STT)</p>
+<p>- Speech-To-Text (STT)</p>
 <p>- Efficient AI</p>
 <p>- Continual Learning</p>
 <br>
